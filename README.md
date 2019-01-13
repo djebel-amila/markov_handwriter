@@ -8,18 +8,18 @@ It is set to export file in a A4 format. In my project, the svg paths are the us
 
 ### Prerequisites
 
-    You need to have Processing 3 installed on your computer to be able to run the program. Get Processing here: 
+You need to have Processing 3 installed on your computer to be able to run the program. Get Processing here: 
     https://processing.org/download/ 
 
 Besides Processing 3, you also need to import: 
 
-    — controlP5.* library
+— controlP5.* library
     http://www.sojamo.de/libraries/controlP5/
     
-    —processing.svg.* library
+—processing.svg.* library
     https://github.com/processing/processing/blob/master/java/libraries/svg/README.md
     
-    — rita.* library
+— rita.* library
     https://rednoise.org/rita/
 
 
@@ -67,9 +67,6 @@ References used for the project:
   http://www.chrisharrison.net/index.php/Visualizations/WebTrigrams
 
 * “Learning Processing”, Daniel schiffman, chapter 8: “Objects”.
-
-* A list of every Bart Simpson’s blackboard quote to date: 
-  http://simpsons.wikia.com/wiki/List_of_chalkboard_gags
 
 * A list of every Bart Simpson’s blackboard quote to date: 
   http://simpsons.wikia.com/wiki/List_of_chalkboard_gags
