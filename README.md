@@ -37,7 +37,7 @@ open the markov_handwriter.pde file in Processing 3, and run the program. The wi
 
 ## Authors
 
-* **Julien Mercier** - *Markov Handwriter* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Julien Mercier** - *Markov Handwriter* - [djebel-amila](https://github.com/djebel-amila)
 
 This project was made as part of the 'Programming for artists' class taught by Lior Ben Gai. Goldmsmiths University, MA Computational Arts 2019. 
 
